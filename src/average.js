@@ -12,11 +12,10 @@
 */
 
 const average = (array) => {
-  
   let media = 0;
 
-  for(let index of array) {
-    if (typeof array[index] !== 'number' && array.length === 0){
+  for (let index of array) {
+    if (typeof array[index] !== 'number' || array.length === 0) {
       return undefined;
     }
     media += index;
@@ -25,5 +24,3 @@ const average = (array) => {
 };
 
 module.exports = average;
-
-

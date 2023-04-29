@@ -1,6 +1,6 @@
 ## Projeto Units Js Tests
 
-Este projeto foi proposto como um desafio para avaliar os conhecimentos adquiridos durante o módulo de Fundamentos do Desenvolvimento Web da Trybe. O projeto consiste em criar testes unitários para diversas funções JavaScript que realizam operações matemáticas, manipulação de arrays e objetos e validação de dados. Os testes devem verificar se as funções retornam os valores esperados de acordo com os requisitos do projeto. Os testes devem ser escritos usando a sintaxe e os métodos da biblioteca Jest.
+Este projeto foi proposto como um desafio para avaliar os conhecimentos adquiridos durante o módulo de Fundamentos do Desenvolvimento Web da Trybe. O projeto consiste em criar funçoes e testes unitários para diversas funções JavaScript que realizam operações matemáticas, manipulação de arrays e objetos e validação de dados. Os testes devem verificar se as funções retornam os valores esperados de acordo com os requisitos do projeto. Os testes devem ser escritos usando a sintaxe e os métodos da biblioteca Jest.
 
 O projeto foi desenvolvido utilizando JavaScript e Jest, seguindo as boas práticas de código limpo e organizado. O projeto também segue os padrões de qualidade de código definidos pelo ESLint. O projeto foi realizado individualmente, utilizando ferramentas de comunicação e versionamento como Slack e GitHub.
 

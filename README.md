@@ -25,7 +25,7 @@ Para instalar o projeto localmente, siga os seguintes passos:
 1. Clone o repositório com o comando
 
 ```javascript
-git clone git@github.com:brenolg/units-js-tests.git
+git clone git@github.com:brenolg/Units-js-Tests-Jest.git
 ```
 2. Instale as dependências.
 
